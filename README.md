@@ -1,22 +1,26 @@
 # PSL-Net Thesis
 
-Reimplementation of **Crowd Counting and Individual Localization Using Pseudo Square Label (PSL-Net)**.
+Repository ini digunakan untuk replikasi penelitian:
 
-## Objective
+Crowd Counting and Individual Localization Using Pseudo Square Label (PSL-Net)
 
-- Reimplement PSL-Net
-- Train on public crowd counting datasets
-- Deploy model to Android
-- Use as thesis project
+Project ini merupakan bagian dari penelitian tesis.
 
-## Framework
+## Struktur
 
-- Python
+- notebooks
+- models
+- utils
+- outputs
+- android
+
+## Environment
+
+- Google Colab
 - PyTorch
-- OpenCV
-- Kaggle
-- Android Studio
+- Google Drive
+- GitHub
 
 ## Status
 
-Project Initialization
+🚧 Under Development
